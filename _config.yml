@@ -3,8 +3,8 @@ title: Spencer Saleban
 description: 'Business Card Page'
 url: 'http://spencersaleban.com'
 baseurl: ''
-profilepic: '/images/ss.jpg'
-bkimage: '/images/cover.jpg'
+profilepic: 'images/ss.jpg'
+bkimage: 'images/cover.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: '5fdda6b52d.js'
 
