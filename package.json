@@ -4,7 +4,7 @@
   "description": "A Jekyll Theme, based on the Uno-Theme with a list of projects as Timeline.",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d _site "
+    "deploy": "gh-pages -d _site"
   },
   "keywords": [],
   "author": "",
