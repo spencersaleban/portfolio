@@ -1,0 +1,20 @@
+{
+  "name": "jekyll-uno-timeline",
+  "version": "1.0.0",
+  "description": "A Jekyll Theme, based on the Uno-Theme with a list of projects as Timeline.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzuehlke/jekyll-uno-timeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tzuehlke/jekyll-uno-timeline/issues"
+  },
+  "homepage": "https://github.com/tzuehlke/jekyll-uno-timeline#readme"
+}
