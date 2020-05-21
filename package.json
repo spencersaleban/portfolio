@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "A Jekyll Theme, based on the Uno-Theme with a list of projects as Timeline.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d _site"
