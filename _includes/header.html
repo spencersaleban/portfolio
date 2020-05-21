@@ -33,6 +33,17 @@
               </li>
             {% endif %}
 
+              {% if site.author.angel_username %}
+              <!-- angelList -->
+              <li class="navigation__item">
+                <a href="https://www.angel.co/{{ site.author.angel_username }}" title="Meetup {{ site.author.angel_username }}" target="_blank">
+                  <!--<div style="font-size: 1.4rem;"><i class="fab fa-meetup fa-lg"></i></div>-->
+                  <i class="fab fa-angellist fa-lg"></i>
+                  <span class="label">angelList</span>
+                </a>
+              </li>
+              {% endif %}
+
             {% if site.author.github_username %}
               <!-- GitHub -->
               <li class="navigation__item">
@@ -44,16 +55,7 @@
               </li>
             {% endif %}
 
-            {% if site.author.angel_username %}
-            <!-- angelList -->
-            <li class="navigation__item">
-              <a href="https://www.angel.co/{{ site.author.angel_username }}" title="Meetup {{ site.author.angel_username }}" target="_blank">
-                <!--<div style="font-size: 1.4rem;"><i class="fab fa-meetup fa-lg"></i></div>-->
-                <i class="fab fa-angellist fa-lg"></i>
-                <span class="label">angelList</span>
-              </a>
-            </li>
-            {% endif %}
+
 
             {% if site.author.email %}
               <!-- Email -->
